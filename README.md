@@ -15,10 +15,6 @@ I'm a game developer and programmer deeply passionate about creating engaging ga
 - **Untitled Space Game**: A 2D top-down survival game in space, currently in early development stages.
 - **Learn Ruby With Ease**: A simple app to teach the basics of programming in Ruby, available for Android and web browsers. (In dev)
 
-## 🌐 Blog
-
-I also have a blog where I share my thoughts on game development, programming, and more. Check it out [here](https://sobinec.vercel.app/blog).
-
 ## 📫 How to reach me
 
 Feel free to reach out if you're interested in game development, programming, open-source projects, or just want to chat about life in general. [Text me here](https://sobinec.vercel.app/contact.html)
