@@ -11,9 +11,7 @@ I'm a game developer and programmer deeply passionate about creating engaging ga
 ## 🎮 Projects
 
 - **VITA4EVER**: Led a team to restore multiplayer functionality for certain games and apps on the PlayStation Vita.
-- **Shootify**: A 2D top-down shooter game made in Godot.
 - **Untitled Space Game**: A 2D top-down survival game in space, currently in early development stages.
-- **Learn Ruby With Ease**: A simple app to teach the basics of programming in Ruby, available for Android and web browsers. (In dev)
 
 ## 📫 How to reach me
 
