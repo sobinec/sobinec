@@ -11,7 +11,7 @@ I'm a game developer and programmer deeply passionate about creating engaging ga
 ## 🎮 Projects
 
 - **VITA4EVER**: Led a team to restore multiplayer functionality for certain games and apps on the PlayStation Vita.
-- **Untitled Space Game**: A 2D top-down survival game in space, currently in early development stages.
+- **SPACEHUB**: A 2D top-down survival game in space, currently in early development stages.
 
 ## 📫 How to reach me
 
